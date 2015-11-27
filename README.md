@@ -29,7 +29,7 @@ This is a simple example about how to set up a client for a website through Jsou
 - ASimpleCache 
 
 #Extra
-blog : [www.tangyingqi.com](www.tangyingqi.com)   
+blog : [www.tangyingqi.com](http://www.tangyingqi.com)   
 E-mail : tangyingqi1994@gmail.com    
 qq : 490068916    
 如果有什么问题欢迎一起讨论。
