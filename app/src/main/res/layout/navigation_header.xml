@@ -21,7 +21,7 @@
             android:id="@+id/photo_iv"
             android:layout_width="72dp"
             android:layout_height="72dp"
-            android:background="@drawable/photo3"
+            android:background="@drawable/photo2"
              />
 
         <TextView
