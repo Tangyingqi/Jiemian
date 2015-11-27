@@ -5,19 +5,19 @@ This is a project with custom client app on android for http://www.jiemian.com/,
 
 This is a simple example about how to set up a client for a website through Jsoup.You can read the code and try to set up a client for another service by yourself. Hope this can help you :)
 
-#Demo
-***
-##Home Page
+##Demo
+
+###Home Page
 
 ![Science and technolog](http://i12.tietuku.com/028ee0b20cf7ad9f.png)
 
-##Drawer navigation
+###Drawer navigation
 ![drawer](http://i12.tietuku.com/fce086aa5b81f880.png)
 
-##Login
+###Login
 ![login](http://i12.tietuku.com/ba441e01d044a4db.png)
 
-##Detail
+###Detail
 ![detail](http://i12.tietuku.com/eb434f529da2f253.png)
 
 #Used library
