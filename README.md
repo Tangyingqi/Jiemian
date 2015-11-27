@@ -26,6 +26,7 @@ This is a simple example about how to set up a client for a website through Jsou
 - univeral-image-loader
 - volley
 - Bmob Sdk
+- ASimpleCache 
 
 #Extra
 blog : [www.tangyingqi.com](www.tangyingqi.com)   
