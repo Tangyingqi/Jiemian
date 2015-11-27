@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_keji"
+            android:icon="@drawable/keji"
+            android:checked="true"
+
+            android:title="科技" />
+        <item
+            android:id="@+id/nav_yule"
+            android:icon="@drawable/yule"
+
+            android:title="娱乐" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/setting"
+
+            android:title="设置" />
+    </group>
+    <item android:title="我的">
+        <menu>
+            <item
+                android:id="@+id/nav_personal"
+                android:icon="@drawable/ic_menu_user"
+                android:title="个人信息" />
+
+        </menu>
+    </item>
+</menu>
