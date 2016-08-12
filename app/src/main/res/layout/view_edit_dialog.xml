@@ -5,7 +5,7 @@
               android:layout_width="match_parent"
               android:layout_height="wrap_content">
 
-    <com.tyq.jiemian.views.DeletableEditText
+    <com.tyq.jiemian.ui.widget.DeletableEditText
             android:id="@+id/edit_dialog_view_et"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

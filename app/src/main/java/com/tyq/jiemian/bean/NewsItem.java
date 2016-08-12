@@ -14,6 +14,24 @@ public class NewsItem implements Serializable {
     private String imageurl;//图片
     private String date;//日期
     private String url;//新闻地址
+    private boolean isReaded;
+    private boolean isCollected;
+
+    public boolean isCollected() {
+        return isCollected;
+    }
+
+    public void setCollected(boolean collected) {
+        isCollected = collected;
+    }
+
+    public boolean isReaded() {
+        return isReaded;
+    }
+
+    public void setReaded(boolean readed) {
+        isReaded = readed;
+    }
 
     public void setUrl(String url) {
         this.url = url;

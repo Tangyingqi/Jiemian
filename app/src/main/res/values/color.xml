@@ -7,6 +7,12 @@
     <color name="purple">#9c27B0</color>
     <color name="blue">#3F51B5</color>
     <color name="background_color">#EEEEEE</color>
-    <color name="grey">#9E9E9E</color>
-    
+    <color name="grey">#B6B6B6</color>
+    <color name="transparent">#00000000</color>
+    <color name="pink">#FF4081</color>
+    <color name="deepSkyBlue">#0682ff</color>
+    <color name="charcoalGrey">#3d424c</color>
+    <color name="lineColor">#e0e0e0</color>
+    <color name="slateAlpha60">#9a4f5f6f</color>
+
 </resources>
